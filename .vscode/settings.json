@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f1d61687-6339-45aa-b21d-965c67bfda7f/resourceGroups/dev/providers/Microsoft.Web/sites/ejsdemoapp",
+    "appService.deploySubpath": "."
+}
